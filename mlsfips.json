@@ -1,0 +1,4377 @@
+[
+ {
+   "MLS": "ACTRIS/ABOR",
+   "MLSID": "a0M1500000UR3OW",
+   "GEOID": 48021
+ },
+ {
+   "MLS": "ACTRIS/ABOR",
+   "MLSID": "a0M1500000UR3OW",
+   "GEOID": 48031
+ },
+ {
+   "MLS": "ACTRIS/ABOR",
+   "MLSID": "a0M1500000UR3OW",
+   "GEOID": 48053
+ },
+ {
+   "MLS": "ACTRIS/ABOR",
+   "MLSID": "a0M1500000UR3OW",
+   "GEOID": 48453
+ },
+ {
+   "MLS": "AKMLS",
+   "MLSID": "a0M1500000UR3OX",
+   "GEOID": 2122
+ },
+ {
+   "MLS": "AKMLS",
+   "MLSID": "a0M1500000UR3OX",
+   "GEOID": 2170
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1001
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1007
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1011
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1013
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1021
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1037
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1047
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1051
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1065
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1081
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1085
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1087
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1101
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1105
+ },
+ {
+   "MLS": "AlaMLS",
+   "MLSID": "a0M1500000URAeb",
+   "GEOID": 1109
+ },
+ {
+   "MLS": "ARMLS",
+   "MLSID": "a0M1500000UR3Ob",
+   "GEOID": 4013
+ },
+ {
+   "MLS": "ARMLS",
+   "MLSID": "a0M1500000UR3Ob",
+   "GEOID": 4021
+ },
+ {
+   "MLS": "BAREIS",
+   "MLSID": "a0M1500000UR3Oe",
+   "GEOID": 6041
+ },
+ {
+   "MLS": "BAREIS",
+   "MLSID": "a0M1500000UR3Oe",
+   "GEOID": 6045
+ },
+ {
+   "MLS": "BAREIS",
+   "MLSID": "a0M1500000UR3Oe",
+   "GEOID": 6055
+ },
+ {
+   "MLS": "BAREIS",
+   "MLSID": "a0M1500000UR3Oe",
+   "GEOID": 6095
+ },
+ {
+   "MLS": "BAREIS",
+   "MLSID": "a0M1500000UR3Oe",
+   "GEOID": 6097
+ },
+ {
+   "MLS": "BeachesMLS",
+   "MLSID": "a0M1500000UR3Oh",
+   "GEOID": 12021
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 10001
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 10003
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 10005
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24001
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24003
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24005
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24009
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24011
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24013
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24015
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24017
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24019
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24021
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24023
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24025
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24045
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 34005
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 34011
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 34007
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24047
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24043
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 34015
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24027
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24029
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 34019
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 34021
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24041
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 34029
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24031
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42017
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42011
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51069
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42101
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51061
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51059
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51047
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51113
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51043
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51107
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51099
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51033
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51013
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51139
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42133
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42107
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42099
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51153
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42091
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51157
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 54071
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 54065
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 54057
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 54037
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 54031
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 54027
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 54023
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 54003
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51187
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51179
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51171
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42057
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51137
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 51177
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42075
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42071
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42055
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42045
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42043
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42041
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42001
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 34033
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 42029
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 34035
+ },
+ {
+   "MLS": "Bright MLS",
+   "MLSID": "a0M1500000UdTEt",
+   "GEOID": 24039
+ },
+ {
+   "MLS": "CATRS",
+   "MLSID": "a0M1500000UR3Os",
+   "GEOID": 12039
+ },
+ {
+   "MLS": "CATRS",
+   "MLSID": "a0M1500000UR3Os",
+   "GEOID": 12063
+ },
+ {
+   "MLS": "CATRS",
+   "MLSID": "a0M1500000UR3Os",
+   "GEOID": 12073
+ },
+ {
+   "MLS": "CATRS",
+   "MLSID": "a0M1500000UR3Os",
+   "GEOID": 12123
+ },
+ {
+   "MLS": "CATRS",
+   "MLSID": "a0M1500000UR3Os",
+   "GEOID": 12129
+ },
+ {
+   "MLS": "CCAR",
+   "MLSID": "a0M1500000UR3OW",
+   "GEOID": 6001
+ },
+ {
+   "MLS": "CCAR",
+   "MLSID": "a0M1500000UR3OW",
+   "GEOID": 6013
+ },
+ {
+   "MLS": "CincyMLS",
+   "MLSID": "a0M1500000UR3P3",
+   "GEOID": 39001
+ },
+ {
+   "MLS": "CincyMLS",
+   "MLSID": "a0M1500000UR3P4",
+   "GEOID": 39015
+ },
+ {
+   "MLS": "CincyMLS",
+   "MLSID": "a0M1500000UR3P5",
+   "GEOID": 39017
+ },
+ {
+   "MLS": "CincyMLS",
+   "MLSID": "a0M1500000UR3P6",
+   "GEOID": 39025
+ },
+ {
+   "MLS": "CincyMLS",
+   "MLSID": "a0M1500000UR3P7",
+   "GEOID": 39027
+ },
+ {
+   "MLS": "CincyMLS",
+   "MLSID": "a0M1500000UR3P8",
+   "GEOID": 39061
+ },
+ {
+   "MLS": "CincyMLS",
+   "MLSID": "a0M1500000UR3P9",
+   "GEOID": 39071
+ },
+ {
+   "MLS": "CincyMLS",
+   "MLSID": "a0M1500000UR3P10",
+   "GEOID": 39165
+ },
+ {
+   "MLS": "CMMLS",
+   "MLSID": "a0M1C00000h1Nax",
+   "GEOID": 28007
+ },
+ {
+   "MLS": "CMMLS",
+   "MLSID": "a0M1C00000h1Nax",
+   "GEOID": 28029
+ },
+ {
+   "MLS": "CMMLS",
+   "MLSID": "a0M1C00000h1Nax",
+   "GEOID": 28049
+ },
+ {
+   "MLS": "CMMLS",
+   "MLSID": "a0M1C00000h1Nax",
+   "GEOID": 28051
+ },
+ {
+   "MLS": "CMMLS",
+   "MLSID": "a0M1C00000h1Nax",
+   "GEOID": 28079
+ },
+ {
+   "MLS": "CMMLS",
+   "MLSID": "a0M1C00000h1Nax",
+   "GEOID": 28089
+ },
+ {
+   "MLS": "CMMLS",
+   "MLSID": "a0M1C00000h1Nax",
+   "GEOID": 28121
+ },
+ {
+   "MLS": "CMMLS",
+   "MLSID": "a0M1C00000h1Nax",
+   "GEOID": 28123
+ },
+ {
+   "MLS": "CMMLS",
+   "MLSID": "a0M1C00000h1Nax",
+   "GEOID": 28127
+ },
+ {
+   "MLS": "CMMLS",
+   "MLSID": "a0M1C00000h1Nax",
+   "GEOID": 28163
+ },
+ {
+   "MLS": "Columbus Realtors",
+   "MLSID": "a0M1500000UR3Ov",
+   "GEOID": 39041
+ },
+ {
+   "MLS": "Columbus Realtors",
+   "MLSID": "a0M1500000UR3Ov",
+   "GEOID": 39047
+ },
+ {
+   "MLS": "Columbus Realtors",
+   "MLSID": "a0M1500000UR3Ov",
+   "GEOID": 39049
+ },
+ {
+   "MLS": "Columbus Realtors",
+   "MLSID": "a0M1500000UR3Ov",
+   "GEOID": 39089
+ },
+ {
+   "MLS": "Columbus Realtors",
+   "MLSID": "a0M1500000UR3Ov",
+   "GEOID": 39097
+ },
+ {
+   "MLS": "Columbus Realtors",
+   "MLSID": "a0M1500000UR3Ov",
+   "GEOID": 39117
+ },
+ {
+   "MLS": "Columbus Realtors",
+   "MLSID": "a0M1500000UR3Ov",
+   "GEOID": 39129
+ },
+ {
+   "MLS": "Columbus Realtors",
+   "MLSID": "a0M1500000UR3Ov",
+   "GEOID": 39159
+ },
+ {
+   "MLS": "CREN MLS",
+   "MLSID": "a0M1500000UR3PB",
+   "GEOID": 8007
+ },
+ {
+   "MLS": "CREN MLS",
+   "MLSID": "a0M1500000UR3PB",
+   "GEOID": 8029
+ },
+ {
+   "MLS": "CREN MLS",
+   "MLSID": "a0M1500000UR3PB",
+   "GEOID": 8033
+ },
+ {
+   "MLS": "CREN MLS",
+   "MLSID": "a0M1500000UR3PB",
+   "GEOID": 8051
+ },
+ {
+   "MLS": "CREN MLS",
+   "MLSID": "a0M1500000UR3PB",
+   "GEOID": 8053
+ },
+ {
+   "MLS": "CREN MLS",
+   "MLSID": "a0M1500000UR3PB",
+   "GEOID": 8067
+ },
+ {
+   "MLS": "CREN MLS",
+   "MLSID": "a0M1500000UR3PB",
+   "GEOID": 8083
+ },
+ {
+   "MLS": "CREN MLS",
+   "MLSID": "a0M1500000UR3PB",
+   "GEOID": 8085
+ },
+ {
+   "MLS": "CREN MLS",
+   "MLSID": "a0M1500000UR3PB",
+   "GEOID": 8091
+ },
+ {
+   "MLS": "CREN MLS",
+   "MLSID": "a0M1500000UR3PB",
+   "GEOID": 8111
+ },
+ {
+   "MLS": "CREN MLS",
+   "MLSID": "a0M1500000UR3PB",
+   "GEOID": 8113
+ },
+ {
+   "MLS": "CRMLS",
+   "MLSID": "a0M1500000UR38u",
+   "GEOID": 6007
+ },
+ {
+   "MLS": "CRMLS",
+   "MLSID": "a0M1500000UR38u",
+   "GEOID": 6011
+ },
+ {
+   "MLS": "CRMLS",
+   "MLSID": "a0M1500000UR38u",
+   "GEOID": 6021
+ },
+ {
+   "MLS": "CRMLS",
+   "MLSID": "a0M1500000UR38u",
+   "GEOID": 6033
+ },
+ {
+   "MLS": "CRMLS",
+   "MLSID": "a0M1500000UR38u",
+   "GEOID": 6037
+ },
+ {
+   "MLS": "CRMLS",
+   "MLSID": "a0M1500000UR38u",
+   "GEOID": 6047
+ },
+ {
+   "MLS": "CRMLS",
+   "MLSID": "a0M1500000UR38u",
+   "GEOID": 6059
+ },
+ {
+   "MLS": "CRMLS",
+   "MLSID": "a0M1500000UR38u",
+   "GEOID": 6065
+ },
+ {
+   "MLS": "CRMLS",
+   "MLSID": "a0M1500000UR38u",
+   "GEOID": 6071
+ },
+ {
+   "MLS": "CRMLS",
+   "MLSID": "a0M1500000UR38u",
+   "GEOID": 6079
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx6",
+   "GEOID": 48007
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx7",
+   "GEOID": 48027
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx8",
+   "GEOID": 48055
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx9",
+   "GEOID": 48091
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx10",
+   "GEOID": 48099
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx11",
+   "GEOID": 48175
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx12",
+   "GEOID": 48177
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx13",
+   "GEOID": 48187
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx14",
+   "GEOID": 48209
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx15",
+   "GEOID": 48281
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx16",
+   "GEOID": 48285
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx17",
+   "GEOID": 48391
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx18",
+   "GEOID": 48469
+ },
+ {
+   "MLS": "CTXMLS",
+   "MLSID": "a0M1C00000g2Jx19",
+   "GEOID": 48491
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51036
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51041
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51053
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51075
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51081
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51085
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51087
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51101
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51127
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51145
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51149
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51181
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51183
+ },
+ {
+   "MLS": "CVRMLS",
+   "MLSID": "a0M1500000UR3PG",
+   "GEOID": 51159
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13013
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13015
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13055
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13057
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13067
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13085
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13097
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13115
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13117
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13121
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13129
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13135
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13139
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13143
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13157
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13297
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13247
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13187
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13217
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13233
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13223
+ },
+ {
+   "MLS": "FMLS",
+   "MLSID": "a0M1500000UR3Pb",
+   "GEOID": 13227
+ },
+ {
+   "MLS": "GAAR (SWMLS)",
+   "MLSID": "a0M1500000UR3Pf",
+   "GEOID": 35001
+ },
+ {
+   "MLS": "GAAR (SWMLS)",
+   "MLSID": "a0M1500000UR3Pf",
+   "GEOID": 35043
+ },
+ {
+   "MLS": "GAAR (SWMLS)",
+   "MLSID": "a0M1500000UR3Pf",
+   "GEOID": 35049
+ },
+ {
+   "MLS": "GAAR (SWMLS)",
+   "MLSID": "a0M1500000UR3Pf",
+   "GEOID": 35053
+ },
+ {
+   "MLS": "GAAR (SWMLS)",
+   "MLSID": "a0M1500000UR3Pf",
+   "GEOID": 35057
+ },
+ {
+   "MLS": "GAAR (SWMLS)",
+   "MLSID": "a0M1500000UR3Pf",
+   "GEOID": 35061
+ },
+ {
+   "MLS": "GALMLS",
+   "MLSID": "a0M1500000dlzgg",
+   "GEOID": 1009
+ },
+ {
+   "MLS": "GALMLS",
+   "MLSID": "a0M1500000dlzgg",
+   "GEOID": 1015
+ },
+ {
+   "MLS": "GALMLS",
+   "MLSID": "a0M1500000dlzgg",
+   "GEOID": 1073
+ },
+ {
+   "MLS": "GALMLS",
+   "MLSID": "a0M1500000dlzgg",
+   "GEOID": 1117
+ },
+ {
+   "MLS": "GALMLS",
+   "MLSID": "a0M1500000dlzgg",
+   "GEOID": 1121
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13035
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13045
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13063
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13077
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13113
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13149
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13151
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13159
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13171
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13199
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13207
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13211
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13231
+ },
+ {
+   "MLS": "GAMLS",
+   "MLSID": "a0M1500000UR3Ph",
+   "GEOID": 13255
+ },
+ {
+   "MLS": "GBRMLS",
+   "MLSID": "a0M1500000dlzef",
+   "GEOID": 22005
+ },
+ {
+   "MLS": "GBRMLS",
+   "MLSID": "a0M1500000dlzef",
+   "GEOID": 22033
+ },
+ {
+   "MLS": "GBRMLS",
+   "MLSID": "a0M1500000dlzef",
+   "GEOID": 22037
+ },
+ {
+   "MLS": "GBRMLS",
+   "MLSID": "a0M1500000dlzef",
+   "GEOID": 22047
+ },
+ {
+   "MLS": "GBRMLS",
+   "MLSID": "a0M1500000dlzef",
+   "GEOID": 22063
+ },
+ {
+   "MLS": "GBRMLS",
+   "MLSID": "a0M1500000dlzef",
+   "GEOID": 22077
+ },
+ {
+   "MLS": "GBRMLS",
+   "MLSID": "a0M1500000dlzef",
+   "GEOID": 22121
+ },
+ {
+   "MLS": "GBRMLS",
+   "MLSID": "a0M1500000dlzef",
+   "GEOID": 22125
+ },
+ {
+   "MLS": "GCAR MLS",
+   "MLSID": "a0M1500000UR3P1",
+   "GEOID": 47065
+ },
+ {
+   "MLS": "GCAR MLS",
+   "MLSID": "a0M1500000UR3P2",
+   "GEOID": 47153
+ },
+ {
+   "MLS": "GLVAR",
+   "MLSID": "a0M1500000UR3Pw",
+   "GEOID": 32003
+ },
+ {
+   "MLS": "GLVAR",
+   "MLSID": "a0M1500000UR3Pw",
+   "GEOID": 32023
+ },
+ {
+   "MLS": "GSMLS",
+   "MLSID": "a0M1500000UR3Pi",
+   "GEOID": 34003
+ },
+ {
+   "MLS": "GSMLS",
+   "MLSID": "a0M1500000UR3Pi",
+   "GEOID": 34013
+ },
+ {
+   "MLS": "GSMLS",
+   "MLSID": "a0M1500000UR3Pi",
+   "GEOID": 34017
+ },
+ {
+   "MLS": "GSMLS",
+   "MLSID": "a0M1500000UR3Pi",
+   "GEOID": 34023
+ },
+ {
+   "MLS": "GSMLS",
+   "MLSID": "a0M1500000UR3Pi",
+   "GEOID": 34027
+ },
+ {
+   "MLS": "GSMLS",
+   "MLSID": "a0M1500000UR3Pi",
+   "GEOID": 34031
+ },
+ {
+   "MLS": "GSMLS",
+   "MLSID": "a0M1500000UR3Pi",
+   "GEOID": 34037
+ },
+ {
+   "MLS": "GSMLS",
+   "MLSID": "a0M1500000UR3Pi",
+   "GEOID": 34039
+ },
+ {
+   "MLS": "GSMLS",
+   "MLSID": "a0M1500000UR3Pi",
+   "GEOID": 34041
+ },
+ {
+   "MLS": "GSREIN MLS",
+   "MLSID": "a0M1500000UR3Q6",
+   "GEOID": 22051
+ },
+ {
+   "MLS": "GSREIN MLS",
+   "MLSID": "a0M1500000UR3Q7",
+   "GEOID": 22071
+ },
+ {
+   "MLS": "GSREIN MLS",
+   "MLSID": "a0M1500000UR3Q8",
+   "GEOID": 22075
+ },
+ {
+   "MLS": "GSREIN MLS",
+   "MLSID": "a0M1500000UR3Q9",
+   "GEOID": 22105
+ },
+ {
+   "MLS": "GSREIN MLS",
+   "MLSID": "a0M1500000UR3Q10",
+   "GEOID": 22117
+ },
+ {
+   "MLS": "HAR-MLS",
+   "MLSID": "a0M1500000UR3Q8",
+   "GEOID": 48015
+ },
+ {
+   "MLS": "HAR-MLS",
+   "MLSID": "a0M1500000UR3Q9",
+   "GEOID": 48039
+ },
+ {
+   "MLS": "HAR-MLS",
+   "MLSID": "a0M1500000UR3Q10",
+   "GEOID": 48071
+ },
+ {
+   "MLS": "HAR-MLS",
+   "MLSID": "a0M1500000UR3Q11",
+   "GEOID": 48157
+ },
+ {
+   "MLS": "HAR-MLS",
+   "MLSID": "a0M1500000UR3Q12",
+   "GEOID": 48167
+ },
+ {
+   "MLS": "HAR-MLS",
+   "MLSID": "a0M1500000UR3Q13",
+   "GEOID": 48201
+ },
+ {
+   "MLS": "HAR-MLS",
+   "MLSID": "a0M1500000UR3Q14",
+   "GEOID": 48291
+ },
+ {
+   "MLS": "HAR-MLS",
+   "MLSID": "a0M1500000UR3Q15",
+   "GEOID": 48339
+ },
+ {
+   "MLS": "HAR-MLS",
+   "MLSID": "a0M1500000UR3Q16",
+   "GEOID": 48471
+ },
+ {
+   "MLS": "HAR-MLS",
+   "MLSID": "a0M1500000UR3Q17",
+   "GEOID": 48473
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 20005
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 20059
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 20091
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 20103
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 20107
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 20121
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 20209
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29003
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29005
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29021
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29025
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29037
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29047
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29049
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29061
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29165
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29227
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29177
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29147
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29075
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29081
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29107
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29087
+ },
+ {
+   "MLS": "Heartland",
+   "MLSID": "a0M1500000UR3QB",
+   "GEOID": 29095
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16001
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16003
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16015
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16025
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16027
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16039
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16045
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16047
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16053
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16057
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16063
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16069
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16075
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16083
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16085
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 16087
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 41045
+ },
+ {
+   "MLS": "IMLS",
+   "MLSID": "a0M1500000UR3QI",
+   "GEOID": 53003
+ },
+ {
+   "MLS": "IRES",
+   "MLSID": "a0M1500000UR3QK",
+   "GEOID": 8013
+ },
+ {
+   "MLS": "IRES",
+   "MLSID": "a0M1500000UR3QK",
+   "GEOID": 8069
+ },
+ {
+   "MLS": "IRES",
+   "MLSID": "a0M1500000UR3QK",
+   "GEOID": 8075
+ },
+ {
+   "MLS": "IRES",
+   "MLSID": "a0M1500000UR3QK",
+   "GEOID": 8087
+ },
+ {
+   "MLS": "IRES",
+   "MLSID": "a0M1500000UR3QK",
+   "GEOID": 8123
+ },
+ {
+   "MLS": "MAAR-MLS",
+   "MLSID": "a0M1500000UR3Qh",
+   "GEOID": 5035
+ },
+ {
+   "MLS": "MAAR-MLS",
+   "MLSID": "a0M1500000UR3Qh",
+   "GEOID": 47047
+ },
+ {
+   "MLS": "MAAR-MLS",
+   "MLSID": "a0M1500000UR3Qh",
+   "GEOID": 47069
+ },
+ {
+   "MLS": "MAAR-MLS",
+   "MLSID": "a0M1500000UR3Qh",
+   "GEOID": 47071
+ },
+ {
+   "MLS": "MAAR-MLS",
+   "MLSID": "a0M1500000UR3Qh",
+   "GEOID": 47097
+ },
+ {
+   "MLS": "MAAR-MLS",
+   "MLSID": "a0M1500000UR3Qh",
+   "GEOID": 47109
+ },
+ {
+   "MLS": "MAAR-MLS",
+   "MLSID": "a0M1500000UR3Qh",
+   "GEOID": 47157
+ },
+ {
+   "MLS": "MAAR-MLS",
+   "MLSID": "a0M1500000UR3Qh",
+   "GEOID": 47167
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17005
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17021
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17027
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17051
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17061
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17083
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17117
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17119
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17121
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17133
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17135
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17157
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 17189
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29007
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29017
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29051
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29065
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29073
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29071
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29055
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29035
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29093
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29019
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29023
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29099
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29105
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29031
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29113
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29027
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29137
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29135
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29203
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29229
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29225
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29223
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29221
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29219
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29215
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29207
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29201
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29186
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29169
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29181
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29179
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29163
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29161
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29157
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29151
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29131
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29125
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29139
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29127
+ },
+ {
+   "MLS": "MARIS",
+   "MLSID": "a0M1500000UR3Qj",
+   "GEOID": 29029
+ },
+ {
+   "MLS": "MetroList",
+   "MLSID": "a0M1500000UR3Qn",
+   "GEOID": 6005
+ },
+ {
+   "MLS": "MetroList",
+   "MLSID": "a0M1500000UR3Qn",
+   "GEOID": 6017
+ },
+ {
+   "MLS": "MetroList",
+   "MLSID": "a0M1500000UR3Qn",
+   "GEOID": 6057
+ },
+ {
+   "MLS": "MetroList",
+   "MLSID": "a0M1500000UR3Qn",
+   "GEOID": 6061
+ },
+ {
+   "MLS": "MetroList",
+   "MLSID": "a0M1500000UR3Qn",
+   "GEOID": 6067
+ },
+ {
+   "MLS": "MetroList",
+   "MLSID": "a0M1500000UR3Qn",
+   "GEOID": 6077
+ },
+ {
+   "MLS": "MetroList",
+   "MLSID": "a0M1500000UR3Qn",
+   "GEOID": 6099
+ },
+ {
+   "MLS": "MetroList",
+   "MLSID": "a0M1500000UR3Qn",
+   "GEOID": 6113
+ },
+ {
+   "MLS": "MIBOR",
+   "MLSID": "a0M1500000UR3Qr",
+   "GEOID": 18011
+ },
+ {
+   "MLS": "MIBOR",
+   "MLSID": "a0M1500000UR3Qr",
+   "GEOID": 18013
+ },
+ {
+   "MLS": "MIBOR",
+   "MLSID": "a0M1500000UR3Qr",
+   "GEOID": 18031
+ },
+ {
+   "MLS": "MIBOR",
+   "MLSID": "a0M1500000UR3Qr",
+   "GEOID": 18057
+ },
+ {
+   "MLS": "MIBOR",
+   "MLSID": "a0M1500000UR3Qr",
+   "GEOID": 18059
+ },
+ {
+   "MLS": "MIBOR",
+   "MLSID": "a0M1500000UR3Qr",
+   "GEOID": 18063
+ },
+ {
+   "MLS": "MIBOR",
+   "MLSID": "a0M1500000UR3Qr",
+   "GEOID": 18081
+ },
+ {
+   "MLS": "MIBOR",
+   "MLSID": "a0M1500000UR3Qr",
+   "GEOID": 18095
+ },
+ {
+   "MLS": "MIBOR",
+   "MLSID": "a0M1500000UR3Qr",
+   "GEOID": 18097
+ },
+ {
+   "MLS": "MIBOR",
+   "MLSID": "a0M1500000UR3Qr",
+   "GEOID": 18107
+ },
+ {
+   "MLS": "MIBOR",
+   "MLSID": "a0M1500000UR3Qr",
+   "GEOID": 18109
+ },
+ {
+   "MLS": "MIBOR",
+   "MLSID": "a0M1500000UR3Qr",
+   "GEOID": 18145
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36005
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36027
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36047
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36059
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36061
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36071
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36079
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36081
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36085
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36087
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36103
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36105
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36111
+ },
+ {
+   "MLS": "MLSLI/OneKey",
+   "MLSID": "a0M1500000UR3Qw",
+   "GEOID": 36119
+ },
+ {
+   "MLS": "MLSListings",
+   "MLSID": "a0M1500000UR3Qx",
+   "GEOID": 6053
+ },
+ {
+   "MLS": "MLSListings",
+   "MLSID": "a0M1500000UR3Qx",
+   "GEOID": 6069
+ },
+ {
+   "MLS": "MLSListings",
+   "MLSID": "a0M1500000UR3Qx",
+   "GEOID": 6081
+ },
+ {
+   "MLS": "MLSListings",
+   "MLSID": "a0M1500000UR3Qx",
+   "GEOID": 6085
+ },
+ {
+   "MLS": "MLSListings",
+   "MLSID": "a0M1500000UR3Qx",
+   "GEOID": 6087
+ },
+ {
+   "MLS": "MLSOK",
+   "MLSID": "a0M1500000UR3RW",
+   "GEOID": 40011
+ },
+ {
+   "MLS": "MLSOK",
+   "MLSID": "a0M1500000UR3RW",
+   "GEOID": 40015
+ },
+ {
+   "MLS": "MLSOK",
+   "MLSID": "a0M1500000UR3RW",
+   "GEOID": 40017
+ },
+ {
+   "MLS": "MLSOK",
+   "MLSID": "a0M1500000UR3RW",
+   "GEOID": 40027
+ },
+ {
+   "MLS": "MLSOK",
+   "MLSID": "a0M1500000UR3RW",
+   "GEOID": 40051
+ },
+ {
+   "MLS": "MLSOK",
+   "MLSID": "a0M1500000UR3RW",
+   "GEOID": 40073
+ },
+ {
+   "MLS": "MLSOK",
+   "MLSID": "a0M1500000UR3RW",
+   "GEOID": 40081
+ },
+ {
+   "MLS": "MLSOK",
+   "MLSID": "a0M1500000UR3RW",
+   "GEOID": 40083
+ },
+ {
+   "MLS": "MLSOK",
+   "MLSID": "a0M1500000UR3RW",
+   "GEOID": 40087
+ },
+ {
+   "MLS": "MLSOK",
+   "MLSID": "a0M1500000UR3RW",
+   "GEOID": 40109
+ },
+ {
+   "MLS": "MLSOK",
+   "MLSID": "a0M1500000UR3RW",
+   "GEOID": 40125
+ },
+ {
+   "MLS": "MLSOK",
+   "MLSID": "a0M1500000UR3RW",
+   "GEOID": 40133
+ },
+ {
+   "MLS": "MLS-PIN",
+   "MLSID": "a0M1500000UR3Qu",
+   "GEOID": 25025
+ },
+ {
+   "MLS": "MLSSAZ",
+   "MLSID": "a0M1500000UR3SE",
+   "GEOID": 4003
+ },
+ {
+   "MLS": "MLSSAZ",
+   "MLSID": "a0M1500000UR3SE",
+   "GEOID": 4019
+ },
+ {
+   "MLS": "MLSSAZ",
+   "MLSID": "a0M1500000UR3SE",
+   "GEOID": 4023
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R3",
+   "GEOID": 17007
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R4",
+   "GEOID": 17011
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R5",
+   "GEOID": 17019
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R6",
+   "GEOID": 17031
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R7",
+   "GEOID": 17053
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R8",
+   "GEOID": 17063
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R9",
+   "GEOID": 17075
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R10",
+   "GEOID": 17089
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R11",
+   "GEOID": 17091
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R12",
+   "GEOID": 17093
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R13",
+   "GEOID": 17097
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R14",
+   "GEOID": 17103
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R15",
+   "GEOID": 17111
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R16",
+   "GEOID": 17147
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R17",
+   "GEOID": 17155
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R18",
+   "GEOID": 17195
+ },
+ {
+   "MLS": "MRED",
+   "MLSID": "a0M1500000UR3R19",
+   "GEOID": 17197
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R7",
+   "GEOID": 47003
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R8",
+   "GEOID": 47015
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R9",
+   "GEOID": 47021
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R10",
+   "GEOID": 47031
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R11",
+   "GEOID": 47035
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R12",
+   "GEOID": 47037
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R13",
+   "GEOID": 47043
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R14",
+   "GEOID": 47051
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R15",
+   "GEOID": 47055
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R16",
+   "GEOID": 47061
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R17",
+   "GEOID": 47081
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R18",
+   "GEOID": 47099
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R19",
+   "GEOID": 47101
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R20",
+   "GEOID": 47103
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R21",
+   "GEOID": 47117
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R22",
+   "GEOID": 47165
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R23",
+   "GEOID": 47177
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R24",
+   "GEOID": 47185
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R25",
+   "GEOID": 47181
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R26",
+   "GEOID": 47175
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R27",
+   "GEOID": 47149
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R28",
+   "GEOID": 47187
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R29",
+   "GEOID": 47119
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R30",
+   "GEOID": 47125
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R31",
+   "GEOID": 47189
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R32",
+   "GEOID": 47147
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R33",
+   "GEOID": 47127
+ },
+ {
+   "MLS": "MTRMLS",
+   "MLSID": "a0M1500000UR3R34",
+   "GEOID": 47141
+ },
+ {
+   "MLS": "NEFMLS",
+   "MLSID": "a0M1500000UR3RC",
+   "GEOID": 12003
+ },
+ {
+   "MLS": "NEFMLS",
+   "MLSID": "a0M1500000UR3RC",
+   "GEOID": 12019
+ },
+ {
+   "MLS": "NEFMLS",
+   "MLSID": "a0M1500000UR3RC",
+   "GEOID": 12031
+ },
+ {
+   "MLS": "NEFMLS",
+   "MLSID": "a0M1500000UR3RC",
+   "GEOID": 12107
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23001
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23003
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23005
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23007
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23009
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23011
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23013
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23015
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23017
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23019
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23021
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23023
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23025
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23027
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23029
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 33011
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 33015
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 33019
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 33017
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 33013
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 33009
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50001
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 23031
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 33001
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50003
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50005
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 33007
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50007
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 33003
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50017
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50015
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50027
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50025
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50023
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50021
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50013
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50009
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50019
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 50011
+ },
+ {
+   "MLS": "NEREN",
+   "MLSID": "a0M1500000UR3RJ",
+   "GEOID": 33005
+ },
+ {
+   "MLS": "NKMLS",
+   "MLSID": "a0M1500000UR3RG",
+   "GEOID": 21015
+ },
+ {
+   "MLS": "NKMLS",
+   "MLSID": "a0M1500000UR3RG",
+   "GEOID": 21023
+ },
+ {
+   "MLS": "NKMLS",
+   "MLSID": "a0M1500000UR3RG",
+   "GEOID": 21037
+ },
+ {
+   "MLS": "NKMLS",
+   "MLSID": "a0M1500000UR3RG",
+   "GEOID": 21069
+ },
+ {
+   "MLS": "NKMLS",
+   "MLSID": "a0M1500000UR3RG",
+   "GEOID": 21077
+ },
+ {
+   "MLS": "NKMLS",
+   "MLSID": "a0M1500000UR3RG",
+   "GEOID": 21081
+ },
+ {
+   "MLS": "NKMLS",
+   "MLSID": "a0M1500000UR3RG",
+   "GEOID": 21117
+ },
+ {
+   "MLS": "NKMLS",
+   "MLSID": "a0M1500000UR3RG",
+   "GEOID": 21135
+ },
+ {
+   "MLS": "NKMLS",
+   "MLSID": "a0M1500000UR3RG",
+   "GEOID": 21161
+ },
+ {
+   "MLS": "NKMLS",
+   "MLSID": "a0M1500000UR3RG",
+   "GEOID": 21187
+ },
+ {
+   "MLS": "NKMLS",
+   "MLSID": "a0M1500000UR3RG",
+   "GEOID": 21191
+ },
+ {
+   "MLS": "NKMLS",
+   "MLSID": "a0M1500000UR3RG",
+   "GEOID": 21201
+ },
+ {
+   "MLS": "NNRMLS",
+   "MLSID": "a0M1500000UR3RK",
+   "GEOID": 32001
+ },
+ {
+   "MLS": "NNRMLS",
+   "MLSID": "a0M1500000UR3RK",
+   "GEOID": 32005
+ },
+ {
+   "MLS": "NNRMLS",
+   "MLSID": "a0M1500000UR3RK",
+   "GEOID": 32019
+ },
+ {
+   "MLS": "NNRMLS",
+   "MLSID": "a0M1500000UR3RK",
+   "GEOID": 32029
+ },
+ {
+   "MLS": "NNRMLS",
+   "MLSID": "a0M1500000UR3RK",
+   "GEOID": 32031
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27001
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27003
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27011
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27015
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27019
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27021
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27023
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27025
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27033
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27035
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27037
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27039
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27041
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27045
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27047
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27063
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27067
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27081
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27073
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27065
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27061
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27083
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27049
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27053
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27091
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27093
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27059
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27095
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27055
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27109
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27105
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27165
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27145
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27163
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27161
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27159
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27173
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27157
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27171
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27169
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27153
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27151
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27149
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27147
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27141
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27139
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27129
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27133
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27131
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27127
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27123
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27121
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27117
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27101
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27097
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27115
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27099
+ },
+ {
+   "MLS": "NorthstarMLS",
+   "MLSID": "a0M1500000UR3RN",
+   "GEOID": 27057
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48001
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48009
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48035
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48049
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48059
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48077
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48083
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48085
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48093
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48097
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48113
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48119
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48121
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48133
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48139
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48193
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48213
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48221
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48217
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48207
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48181
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48223
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48143
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48147
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48231
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48237
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48161
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48251
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48151
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48309
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48293
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48499
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48423
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48497
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48485
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48467
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48447
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48503
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48439
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48433
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48429
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48425
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48417
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48415
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48379
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48399
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48397
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48367
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48363
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48353
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48349
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48277
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48253
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48337
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48257
+ },
+ {
+   "MLS": "NTREIS",
+   "MLSID": "a0M1500000UR3RP",
+   "GEOID": 48159
+ },
+ {
+   "MLS": "NWLAR MLS",
+   "MLSID": "a0M1500000dm0OF",
+   "GEOID": 22013
+ },
+ {
+   "MLS": "NWLAR MLS",
+   "MLSID": "a0M1500000dm0OF",
+   "GEOID": 22015
+ },
+ {
+   "MLS": "NWLAR MLS",
+   "MLSID": "a0M1500000dm0OF",
+   "GEOID": 22017
+ },
+ {
+   "MLS": "NWLAR MLS",
+   "MLSID": "a0M1500000dm0OF",
+   "GEOID": 22027
+ },
+ {
+   "MLS": "NWLAR MLS",
+   "MLSID": "a0M1500000dm0OF",
+   "GEOID": 22031
+ },
+ {
+   "MLS": "NWLAR MLS",
+   "MLSID": "a0M1500000dm0OF",
+   "GEOID": 22081
+ },
+ {
+   "MLS": "NWLAR MLS",
+   "MLSID": "a0M1500000dm0OF",
+   "GEOID": 22119
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53001
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53007
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53009
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53011
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53015
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53017
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53019
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53025
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53027
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53029
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53031
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53033
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53035
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53037
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53041
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53061
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53069
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53073
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53067
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53057
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53045
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53047
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53055
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53049
+ },
+ {
+   "MLS": "NWMLS",
+   "MLSID": "a0M1500000UR3RO",
+   "GEOID": 53053
+ },
+ {
+   "MLS": "RAA MLS",
+   "MLSID": "a0M1500000Udtav",
+   "GEOID": 22001
+ },
+ {
+   "MLS": "RAA MLS",
+   "MLSID": "a0M1500000Udtav",
+   "GEOID": 22045
+ },
+ {
+   "MLS": "RAA MLS",
+   "MLSID": "a0M1500000Udtav",
+   "GEOID": 22055
+ },
+ {
+   "MLS": "RAA MLS",
+   "MLSID": "a0M1500000Udtav",
+   "GEOID": 22113
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8001
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8003
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8005
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8015
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8019
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8021
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8023
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8031
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8035
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8039
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8047
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8049
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8057
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8059
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8079
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8093
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8105
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8117
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8107
+ },
+ {
+   "MLS": "REcolorado",
+   "MLSID": "a0M1500000UR3Rm",
+   "GEOID": 8109
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41001
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41005
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41009
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41011
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41015
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41019
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41021
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41023
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41027
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41033
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41039
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41049
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41051
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41055
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41059
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 53039
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 53059
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41071
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41061
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41063
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41069
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41065
+ },
+ {
+   "MLS": "RMLS",
+   "MLSID": "a0M1500000UR3Rq",
+   "GEOID": 41067
+ },
+ {
+   "MLS": "SABOR",
+   "MLSID": "a0M1500000UR3Rt",
+   "GEOID": 48013
+ },
+ {
+   "MLS": "SABOR",
+   "MLSID": "a0M1500000UR3Rt",
+   "GEOID": 48029
+ },
+ {
+   "MLS": "SABOR",
+   "MLSID": "a0M1500000UR3Rt",
+   "GEOID": 48163
+ },
+ {
+   "MLS": "SABOR",
+   "MLSID": "a0M1500000UR3Rt",
+   "GEOID": 48255
+ },
+ {
+   "MLS": "SABOR",
+   "MLSID": "a0M1500000UR3Rt",
+   "GEOID": 48259
+ },
+ {
+   "MLS": "SABOR",
+   "MLSID": "a0M1500000UR3Rt",
+   "GEOID": 48283
+ },
+ {
+   "MLS": "SABOR",
+   "MLSID": "a0M1500000UR3Rt",
+   "GEOID": 48311
+ },
+ {
+   "MLS": "SABOR",
+   "MLSID": "a0M1500000UR3Rt",
+   "GEOID": 48325
+ },
+ {
+   "MLS": "SABOR",
+   "MLSID": "a0M1500000UR3Rt",
+   "GEOID": 48495
+ },
+ {
+   "MLS": "SDMLS",
+   "MLSID": "a0M1500000UR38z",
+   "GEOID": 6073
+ },
+ {
+   "MLS": "SEFMLS",
+   "MLSID": "a0M1500000UR3Ry",
+   "GEOID": 12011
+ },
+ {
+   "MLS": "SEFMLS",
+   "MLSID": "a0M1500000UR3Ry",
+   "GEOID": 12085
+ },
+ {
+   "MLS": "SEFMLS",
+   "MLSID": "a0M1500000UR3Ry",
+   "GEOID": 12086
+ },
+ {
+   "MLS": "SEFMLS",
+   "MLSID": "a0M1500000UR3Ry",
+   "GEOID": 12099
+ },
+ {
+   "MLS": "SFARMLS",
+   "MLSID": "a0M1500000UR3S0",
+   "GEOID": 6075
+ },
+ {
+   "MLS": "SmartMLS",
+   "MLSID": "a0M1500000Udy76",
+   "GEOID": 9001
+ },
+ {
+   "MLS": "SmartMLS",
+   "MLSID": "a0M1500000Udy76",
+   "GEOID": 9003
+ },
+ {
+   "MLS": "SmartMLS",
+   "MLSID": "a0M1500000Udy76",
+   "GEOID": 9005
+ },
+ {
+   "MLS": "SmartMLS",
+   "MLSID": "a0M1500000Udy76",
+   "GEOID": 9007
+ },
+ {
+   "MLS": "SmartMLS",
+   "MLSID": "a0M1500000Udy76",
+   "GEOID": 9009
+ },
+ {
+   "MLS": "SmartMLS",
+   "MLSID": "a0M1500000Udy76",
+   "GEOID": 9011
+ },
+ {
+   "MLS": "SmartMLS",
+   "MLSID": "a0M1500000Udy76",
+   "GEOID": 9013
+ },
+ {
+   "MLS": "SmartMLS",
+   "MLSID": "a0M1500000Udy76",
+   "GEOID": 9015
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16005
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16007
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16011
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16019
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16023
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16029
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16031
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16033
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16037
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16041
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16043
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16051
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16059
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16065
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16071
+ },
+ {
+   "MLS": "Snake River MLS",
+   "MLSID": "a0M1500000UR3S5",
+   "GEOID": 16081
+ },
+ {
+   "MLS": "Statewide MLS",
+   "MLSID": "a0M1500000UR3Ro",
+   "GEOID": 44001
+ },
+ {
+   "MLS": "Statewide MLS",
+   "MLSID": "a0M1500000UR3Ro",
+   "GEOID": 44003
+ },
+ {
+   "MLS": "Statewide MLS",
+   "MLSID": "a0M1500000UR3Ro",
+   "GEOID": 44005
+ },
+ {
+   "MLS": "Statewide MLS",
+   "MLSID": "a0M1500000UR3Ro",
+   "GEOID": 44007
+ },
+ {
+   "MLS": "Statewide MLS",
+   "MLSID": "a0M1500000UR3Ro",
+   "GEOID": 44009
+ },
+ {
+   "MLS": "Stellar",
+   "MLSID": "a0M1500000UR3Qo",
+   "GEOID": 12015
+ },
+ {
+   "MLS": "Stellar",
+   "MLSID": "a0M1500000UR3Qo",
+   "GEOID": 12057
+ },
+ {
+   "MLS": "Stellar",
+   "MLSID": "a0M1500000UR3Qo",
+   "GEOID": 12069
+ },
+ {
+   "MLS": "Stellar",
+   "MLSID": "a0M1500000UR3Qo",
+   "GEOID": 12081
+ },
+ {
+   "MLS": "Stellar",
+   "MLSID": "a0M1500000UR3Qo",
+   "GEOID": 12095
+ },
+ {
+   "MLS": "Stellar",
+   "MLSID": "a0M1500000UR3Qo",
+   "GEOID": 12097
+ },
+ {
+   "MLS": "Stellar",
+   "MLSID": "a0M1500000UR3Qo",
+   "GEOID": 12101
+ },
+ {
+   "MLS": "Stellar",
+   "MLSID": "a0M1500000UR3Qo",
+   "GEOID": 12105
+ },
+ {
+   "MLS": "Stellar",
+   "MLSID": "a0M1500000UR3Qo",
+   "GEOID": 12115
+ },
+ {
+   "MLS": "Stellar",
+   "MLSID": "a0M1500000UR3Qo",
+   "GEOID": 12117
+ },
+ {
+   "MLS": "Stellar",
+   "MLSID": "a0M1500000UR3Qo",
+   "GEOID": 12119
+ },
+ {
+   "MLS": "Stellar",
+   "MLSID": "a0M1500000UR3Qo",
+   "GEOID": 12127
+ },
+ {
+   "MLS": "TriadMLS",
+   "MLSID": "a0M1500000Ue0zn",
+   "GEOID": 37001
+ },
+ {
+   "MLS": "TriadMLS",
+   "MLSID": "a0M1500000Ue0zn",
+   "GEOID": 37033
+ },
+ {
+   "MLS": "TriadMLS",
+   "MLSID": "a0M1500000Ue0zn",
+   "GEOID": 37057
+ },
+ {
+   "MLS": "TriadMLS",
+   "MLSID": "a0M1500000Ue0zn",
+   "GEOID": 37059
+ },
+ {
+   "MLS": "TriadMLS",
+   "MLSID": "a0M1500000Ue0zn",
+   "GEOID": 37067
+ },
+ {
+   "MLS": "TriadMLS",
+   "MLSID": "a0M1500000Ue0zn",
+   "GEOID": 37081
+ },
+ {
+   "MLS": "TriadMLS",
+   "MLSID": "a0M1500000Ue0zn",
+   "GEOID": 37151
+ },
+ {
+   "MLS": "TriadMLS",
+   "MLSID": "a0M1500000Ue0zn",
+   "GEOID": 37157
+ },
+ {
+   "MLS": "TriadMLS",
+   "MLSID": "a0M1500000Ue0zn",
+   "GEOID": 37169
+ },
+ {
+   "MLS": "TriadMLS",
+   "MLSID": "a0M1500000Ue0zn",
+   "GEOID": 37171
+ },
+ {
+   "MLS": "TriadMLS",
+   "MLSID": "a0M1500000Ue0zn",
+   "GEOID": 37193
+ },
+ {
+   "MLS": "TriadMLS",
+   "MLSID": "a0M1500000Ue0zn",
+   "GEOID": 37197
+ },
+ {
+   "MLS": "ValleyMLS",
+   "MLSID": "a0M1500000UR3R9",
+   "GEOID": 1019
+ },
+ {
+   "MLS": "ValleyMLS",
+   "MLSID": "a0M1500000UR3R9",
+   "GEOID": 1043
+ },
+ {
+   "MLS": "ValleyMLS",
+   "MLSID": "a0M1500000UR3R9",
+   "GEOID": 1055
+ },
+ {
+   "MLS": "ValleyMLS",
+   "MLSID": "a0M1500000UR3R9",
+   "GEOID": 1071
+ },
+ {
+   "MLS": "ValleyMLS",
+   "MLSID": "a0M1500000UR3R9",
+   "GEOID": 1079
+ },
+ {
+   "MLS": "ValleyMLS",
+   "MLSID": "a0M1500000UR3R9",
+   "GEOID": 1083
+ },
+ {
+   "MLS": "ValleyMLS",
+   "MLSID": "a0M1500000UR3R9",
+   "GEOID": 1089
+ },
+ {
+   "MLS": "ValleyMLS",
+   "MLSID": "a0M1500000UR3R9",
+   "GEOID": 1095
+ },
+ {
+   "MLS": "ValleyMLS",
+   "MLSID": "a0M1500000UR3R9",
+   "GEOID": 1103
+ },
+ {
+   "MLS": "Ventura",
+   "MLSID": "a0M1500000UR3SP",
+   "GEOID": 6111
+ },
+ {
+   "MLS": "WARDEX",
+   "MLSID": "a0M1500000UR3SS",
+   "GEOID": 4012
+ },
+ {
+   "MLS": "WARDEX",
+   "MLSID": "a0M1500000UR3SS",
+   "GEOID": 4015
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49001
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49003
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49005
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49007
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49009
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49011
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49013
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49015
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49017
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49019
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49021
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49023
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49025
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49027
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49029
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49043
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49047
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49051
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49049
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49045
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49041
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49053
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49031
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49033
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49055
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49057
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49039
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49035
+ },
+ {
+   "MLS": "WFRMLS",
+   "MLSID": "a0M1500000UR394",
+   "GEOID": 49037
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39007
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39013
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39019
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39029
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39031
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39035
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39055
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39059
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39067
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39075
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39081
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39085
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39093
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39099
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39103
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39151
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39155
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39167
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39157
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39153
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39133
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39169
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39111
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39115
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 54009
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 54029
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39127
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 54035
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39119
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 54105
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 54085
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 54073
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 54051
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 54107
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 54069
+ },
+ {
+   "MLS": "Yes-MLS",
+   "MLSID": "a0M1500000UR3RD",
+   "GEOID": 39121
+ }
+]
